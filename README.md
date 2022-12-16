@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @00venicebitch00
 - 👀 I’m interested in art
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python & c
 - 💞️ I’m looking to collaborate on (pending)
 - 📫 How to reach me _.laraine on instagram
 
