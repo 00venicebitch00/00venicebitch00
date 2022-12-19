@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @00venicebitch00
+- 👋 Hi, I’m @chemtrailss
 - 👀 I’m interested in art
 - 🌱 I’m currently learning python & c
 - 💞️ I’m looking to collaborate on (pending)
